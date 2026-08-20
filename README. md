@@ -1,0 +1,19 @@
+# Web Authentication Screen
+
+Frontend authentication UI built with HTML, CSS, and JavaScript.
+
+## Structure
+
+```bash
+web authentication screen/
+├── .gitignore
+├── README.md
+├── index.html
+├── assets/
+│   ├── css/
+│   │   └── styles.css
+│   └── js/
+│       └── app.js
+└── .github/
+    └── workflows/
+        └── static.yml
